@@ -30,7 +30,7 @@
 
 ## Примеры
 
-<img src="https://github.com/copetonrob/YPWebinarTasks/blob/main/%D0%92%D0%B5%D0%B1%D0%B8%D0%BD%D0%B0%D1%80%201/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201/example1.png" width="256"/>
-<img src="https://github.com/copetonrob/YPWebinarTasks/blob/main/%D0%92%D0%B5%D0%B1%D0%B8%D0%BD%D0%B0%D1%80%201/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201/example2.png" width="256"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W1/blob/main/Задание%201/example1.png" width="256"/>
+<img src="https://github.com/copetonrob/YP_Unity_M2_W1/blob/main/Задание%201/example2.png" width="256"/>
 
 Удачи в создании своего сада на Unity!
